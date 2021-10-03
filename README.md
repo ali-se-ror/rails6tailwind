@@ -15,5 +15,5 @@ This Project includes the following to aid developers to provide a kickstart, ma
 
 # Application versions
 
-Ruby  '3.0.0' 
-Rails '~> 6.1.3', '>= 6.1.3.2'
+** Ruby  '3.0.0' 
+** Rails '~> 6.1.3', '>= 6.1.3.2'
